@@ -4,6 +4,8 @@ Just a ejs,express frontend look-a-like of React Form
 ---
 ### 📸 Screenshots
 ![Alt text](image_form.png)
+![Alt text](image_form_result.png)
+
 ---
 ## 🧾 Purchase Order Form
 
