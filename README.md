@@ -3,7 +3,11 @@ Just a ejs,express frontend look-a-like of React Form
 
 ---
 ### 📸 Screenshots
+
+### Rendered Form
 ![Alt text](image_form.png)
+
+### Rendered Submitted
 ![Alt text](image_form_result.png)
 
 ---
