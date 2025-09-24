@@ -3,8 +3,8 @@ Just a ejs,express frontend look-a-like of React Form
 
 ---
 ### 📸 Screenshots
-
-
+![Alt text](image_form.png)
+---
 ## 🧾 Purchase Order Form
 
 A simple Express + EJS + Bootstrap frontend application for creating and managing Purchase Orders with Talent Details. The form is dynamic, validated, and styled to match enterprise UI standards.
