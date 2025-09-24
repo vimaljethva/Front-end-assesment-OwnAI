@@ -28,22 +28,18 @@ Follow these steps to get the project up and running on your local machine.
 ```
 git clone https://github.com/vimaljethva/Front-end-assesment-OwnAI.git
 
-2. Navigate to the project directory:
 
+2. Navigate to the project directory:
 cd Front-end-assesment-OwnAI
 
-3. Install dependencies:
 
+3. Install dependencies:
 npm install
 
-4. Start the application:
 
+4. Start the application:
 node app.js
 
+
 5. Open in your browser:
-
 Navigate to http://localhost:3000/
-
-
-
-
