@@ -25,23 +25,15 @@ A simple Express + EJS + Bootstrap frontend application for creating and managin
 Follow these steps to get the project up and running on your local machine.
 
 **1. Clone the repository:**
-```bash
+```
 git clone https://github.com/vimaljethva/Front-end-assesment-OwnAI.git
 2. Navigate to the project directory:
-
-Bash
-
 cd Front-end-assesment-OwnAI
+
 3. Install dependencies:
-
-Bash
-
 npm install
 4. Start the application:
-
-Bash
-
-npm start
+node app.js
 5. Open in your browser:
 Navigate to http://localhost:3000/
 
